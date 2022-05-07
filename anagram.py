@@ -30,3 +30,9 @@ if __name__ == '__main__':
     s2 = 'comma'
 
     print(isAnagram(s1,s2))
+    
+    
+    
+    
+    
+    
